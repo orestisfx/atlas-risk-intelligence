@@ -1,0 +1,15 @@
+STREAMLIT DEPLOYMENT STEPS
+
+1. Unzip atlas_streamlit_ready.zip.
+2. Open GitHub and create a new repository, for example: atlas-v9-dealer-intelligence.
+3. Upload all files from inside the unzipped folder to the repository root.
+   The repository root must contain app.py and requirements.txt directly.
+4. Go to Streamlit Community Cloud.
+5. Create new app.
+6. Select your GitHub repository.
+7. Select branch: main.
+8. Main file path: app.py.
+9. Deploy.
+10. When it opens successfully, copy the app URL and share it by email.
+
+Do not upload confidential CRM/client data to GitHub or to a public Streamlit demo.
